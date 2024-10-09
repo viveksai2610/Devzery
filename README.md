@@ -1,10 +1,3 @@
-# Authentication & Authorization | Part 3
-
-- Router Switch
-  - User Defined Components
-  - Redirect
-- Wrapper Component
-  - Protected Route
-- Integrating APIs
-  - Get All Products
-
+Set Up Instructions :
+  1. Download dependencies by running "npm install"
+  2. Start up the app using "npm start"
